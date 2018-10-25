@@ -1,0 +1,12 @@
+We Need To Make The CURD Options In The Admin Panel
+We Have Pages {
+1-> Home ( This Page Will Contain The First 3 Posts And The Recent Posts And The Categories With First 3 Posts )
+2-> Post Page ( This Page Contain The Post Content Will Get it Form Database )
+3-> Author Page ( This Page Contain The Author Posts On Web Sites )
+}
+The Admin Page {
+We have Modules {
+Admin , Authors , Posts , Categories ,
+}
+}
+The Tempr Folder Contain Un used Files  
